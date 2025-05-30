@@ -1,4 +1,4 @@
-# 🛡️ seceng-90day-blueprint
+# 🛡️ SecEng-90day-Blueprint
 
 This project simulates a 90-day onboarding experience for a **Security Engineer or Analyst** in a midsize-to-enterprise environment. It reflects how I would approach ramping up, identifying risks, and contributing to a defensive security team from day one.
 
